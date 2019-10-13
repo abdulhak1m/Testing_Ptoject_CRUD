@@ -1,0 +1,10 @@
+G:\WinFormApp (Сентябрь)\Testing_Project_CRUD\bin\Release\Testing_Project_CRUD.exe.config
+G:\WinFormApp (Сентябрь)\Testing_Project_CRUD\bin\Release\Testing_Project_CRUD.exe
+G:\WinFormApp (Сентябрь)\Testing_Project_CRUD\bin\Release\Testing_Project_CRUD.pdb
+G:\WinFormApp (Сентябрь)\Testing_Project_CRUD\obj\Release\Testing_Project_CRUD.csprojAssemblyReference.cache
+G:\WinFormApp (Сентябрь)\Testing_Project_CRUD\obj\Release\Testing_Project_CRUD.Form1.resources
+G:\WinFormApp (Сентябрь)\Testing_Project_CRUD\obj\Release\Testing_Project_CRUD.Properties.Resources.resources
+G:\WinFormApp (Сентябрь)\Testing_Project_CRUD\obj\Release\Testing_Project_CRUD.csproj.GenerateResource.cache
+G:\WinFormApp (Сентябрь)\Testing_Project_CRUD\obj\Release\Testing_Project_CRUD.csproj.CoreCompileInputs.cache
+G:\WinFormApp (Сентябрь)\Testing_Project_CRUD\obj\Release\Testing_Project_CRUD.exe
+G:\WinFormApp (Сентябрь)\Testing_Project_CRUD\obj\Release\Testing_Project_CRUD.pdb
